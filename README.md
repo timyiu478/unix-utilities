@@ -7,6 +7,7 @@ This repository contains a collection of self-built popular unix utilities for l
 | Command | Description |
 | ------- | ----------- |
 | [wcat](wcat) | A simple implementation of the `cat` command that concatenates files and prints their contents to the standard output. |
+| [wgrep](wgrep) | A simple implementation of the `grep` command that searches for a specified pattern in files or the standard input stream if no given file and prints matching lines to the standard output. |
 
 # Reference
 
